@@ -27,7 +27,7 @@ $ python2 BdCloner.py
 
 # USERNAME & PASSWORDS
 ````
-USERNAME : HAUNTERBOY
+USERNAME : HUNTERBOY
 PASSWORD : alaminkhan
 ````
 
