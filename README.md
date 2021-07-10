@@ -17,7 +17,7 @@ $pip install requests
 
 $ pip install mechanize
 
-$ git clone https://github.com/DevillHaunter/BDCLONER
+$ git clone https://github.com/Hunter-alamin/BDCLONER
 
 $ cd BDCLONER
 
