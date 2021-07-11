@@ -38,4 +38,4 @@ $ pkg install python  ;  pkg install python2  ;  pkg install git  ;  pip2 instal
  cd BDCLONER  ;  python2 BdCloner.py
 ````
 # SCREENSHOT
-![](https://i.top4top.io/p_1936kxllb0.jpg)
+![](https://c.top4top.io/p_2018xtzy50.jpg)
